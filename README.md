@@ -4,16 +4,18 @@
 
 I'm a self-taught MERN stack developer with a passion for building robust and scalable web applications. I love the process of taking an idea and turning it into a fully-functional product. My background in programming and inquisitiveness to learn new trends have given me the skills and knowledge to build high-quality applications that meet the needs of users.
 
-## Skills
+## Skills:
 
-- React
-- Node.js
-- Express
-- MongoDB
-- JavaScript
-- HTML/CSS
-- Git
-- Agile Development
+- **Front-end**: [ React, Redux, HTML, CSS, JavaScript, Bootstrap, Material UI, Tailwind CSS]
+- **Back-end**: [Node.js, Express.js, MongoDB, Mongoose, Firebase, AWS]
+- **Tools**: [Git, npm, VS Code, Postman, EC2 instance]
+
+## Achievements:
+
+- Completed [Bootcamp] on full-stack web development using the MERN stack
+- Contributed to [Open-source Project QUEUE] by adding Backend authentication.
+- Won [Hacktoberfest 2022] by contributing to an open source application.
+
 
 ## Projects
 
