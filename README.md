@@ -12,9 +12,9 @@ I'm a self-taught MERN stack developer with a passion for building robust and sc
 
 ## Achievements:
 
-- Completed [Bootcamp] on full-stack web development using the MERN stack
-- Contributed to [Open-source Project QUEUE] by adding Backend authentication.
-- Won [Hacktoberfest 2022] by contributing to an open source application.
+- Completed Bootcamp on full-stack web development using the MERN stack
+- Contributed to Open-source Project QUEUE by adding Backend authentication.
+- Won Hacktoberfest 2022 by contributing to an open source application.
 
 
 ## Projects
