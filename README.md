@@ -19,9 +19,9 @@ I'm a self-taught MERN stack developer with a passion for building robust and sc
 
 Here are a few projects that I've worked on recently:
 
-- [Apparel](link to project) - An E-commerce application build using Node.js, Express, MongoDB and Handlebars
-- [Fuse](link to project) - A social media application with realtime chat, post, comment etc with additional features like Library and Daily news
-- [MyChatApp](link to project) - A realtime chat application that make use of SASS and useReducer
+- [Apparel](https://github.com/Lidhya/Apparel) - An E-commerce application build using Node.js, Express, MongoDB and Handlebars
+- [Fuse](https://github.com/Lidhya/Fuse) - A social media application with realtime chat, post, comment etc with additional features like Library and Daily news
+- [MyChatApp](https://github.com/Lidhya/chatapp) - A realtime chat application that make use of SASS and useReducer
 
 ## Contact Me
 
