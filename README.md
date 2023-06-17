@@ -6,9 +6,9 @@ I'm a self-taught MERN stack developer with a passion for building robust and sc
 
 ## Skills:
 
-- **Front-end**: React, Redux, HTML, CSS, JavaScript, Bootstrap, Material UI, Tailwind CSS 
-- **Back-end**: Node.js, Express.js, MongoDB, Mongoose, Firebase, AWS
-- **Tools**: Git, npm, VS Code, Postman, EC2 instance 
+- **Front-end**: React, Redux, Next.js, HTML, CSS, JavaScript, Bootstrap, Material UI, Tailwind CSS 
+- **Back-end**: Node.js, Express.js, MongoDB, Mongoose, Firebase, AWS, MySql
+- **Tools**: Git, npm, VS Code, Postman, EC2 instance, CloudFront, S3 Bucket
 
 ## Things I code with
 <p>
